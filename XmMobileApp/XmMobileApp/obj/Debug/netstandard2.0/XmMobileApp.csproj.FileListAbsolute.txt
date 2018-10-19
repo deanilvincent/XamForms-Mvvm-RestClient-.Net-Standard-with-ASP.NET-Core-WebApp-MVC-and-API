@@ -1,0 +1,9 @@
+E:\VS2017\Repos-2\XamFormsRestClientASPNETCore\XmMobileApp\XmMobileApp\bin\Debug\netstandard2.0\XmMobileApp.deps.json
+E:\VS2017\Repos-2\XamFormsRestClientASPNETCore\XmMobileApp\XmMobileApp\bin\Debug\netstandard2.0\XmMobileApp.dll
+E:\VS2017\Repos-2\XamFormsRestClientASPNETCore\XmMobileApp\XmMobileApp\bin\Debug\netstandard2.0\XmMobileApp.pdb
+E:\VS2017\Repos-2\XamFormsRestClientASPNETCore\XmMobileApp\XmMobileApp\obj\Debug\netstandard2.0\XmMobileApp.csproj.CoreCompileInputs.cache
+E:\VS2017\Repos-2\XamFormsRestClientASPNETCore\XmMobileApp\XmMobileApp\obj\Debug\netstandard2.0\XmMobileApp.AssemblyInfoInputs.cache
+E:\VS2017\Repos-2\XamFormsRestClientASPNETCore\XmMobileApp\XmMobileApp\obj\Debug\netstandard2.0\XmMobileApp.AssemblyInfo.cs
+E:\VS2017\Repos-2\XamFormsRestClientASPNETCore\XmMobileApp\XmMobileApp\obj\Debug\netstandard2.0\XmMobileApp.dll
+E:\VS2017\Repos-2\XamFormsRestClientASPNETCore\XmMobileApp\XmMobileApp\obj\Debug\netstandard2.0\XmMobileApp.pdb
+E:\VS2017\Repos-2\XamFormsRestClientASPNETCore\XmMobileApp\XmMobileApp\obj\Debug\netstandard2.0\XmMobileApp.csprojAssemblyReference.cache

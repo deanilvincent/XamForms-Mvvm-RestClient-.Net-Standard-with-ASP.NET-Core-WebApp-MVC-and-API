@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XmMobileApp.Views.MainPage"
+             Title="Main Page">
+
+    <StackLayout Padding="10">
+        <Button Text="List of Products"
+                    x:Name="ListOfProductBtn"
+                    Clicked="ListOfProductBtn_OnClicked"/>
+
+        <Button Text="Create Product"
+                        x:Name="CreateProductBtn"
+                        Clicked="CreateProductBtn_OnClicked"/>
+
+        <Button Text="Update Product"
+                x:Name="UpdateProductBtn"
+                Clicked="UpdateProductBtn_OnClicked"/>
+
+        <Button Text="Delete Product"
+                x:Name="DeleteProductBtn"
+                Clicked="DeleteProductBtn_OnClicked"/>
+    </StackLayout>
+</ContentPage>

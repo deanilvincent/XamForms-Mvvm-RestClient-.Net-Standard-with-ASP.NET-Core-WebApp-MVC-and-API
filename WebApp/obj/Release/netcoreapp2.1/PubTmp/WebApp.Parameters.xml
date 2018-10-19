@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="mywebappdemo01" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\VS2017\\Repos-2\\XamForms-Mvvm-RestClient-\.Net-Standard-with-ASP\.NET-Core-WebApp-MVC-and-API\\MyAppSolution\\WebApp\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
