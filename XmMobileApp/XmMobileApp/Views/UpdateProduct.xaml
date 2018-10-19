@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewModels="clr-namespace:XmMobileApp.ViewModels;assembly=XmMobileApp"
+             x:Class="XmMobileApp.Views.UpdateProduct">
+    <ContentPage.BindingContext>
+        <viewModels:ProductViewModel/>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Content>
+        <StackLayout Padding="10">
+            <Label Text="ID"/>
+            <Entry Text="{Binding Product.ProductId}"/>
+            <Label Text="Name"/>
+            <Entry Text="{Binding Product.Name}"/>
+            <Label Text="Description"/>
+            <Entry Text="{Binding Product.Desc}"/>
+            <Label Text="Price"/>
+            <Entry Text="{Binding Product.Price}"
+                   Keyboard="Numeric"/>
+            <Button Command="{Binding SubmitUpdateProduct}"
+                    Text="Submit"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
